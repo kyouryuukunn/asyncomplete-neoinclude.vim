@@ -1,7 +1,7 @@
-vim source for asyncomplete.vim via neoinclude
+Include source for asyncomplete.vim via neoinclude
 ============================================
 
-Provide vim autocompletion source for [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) via
+Provide include autocompletion source for [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) via
 [neoinclude](https://github.com/Shougo/neoinclude.vim)
 
 ### Installing
